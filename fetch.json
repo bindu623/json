@@ -3,8 +3,12 @@
         {
             "messages": [
             ],
-            "conversationId": "2134664567457",
+            "conversationId": "2134664567656",
             "properties": {
+                "category_id": "abc",
+                "label_id": "def",
+                "age": 23,
+                "required": false
             }
         }
     ]
