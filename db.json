@@ -57,7 +57,7 @@
 				"id": "f41d831f-14be-4492-83f5-c0c22bb4944f",
 				"name": "status",
 				"label": "Status",
-				"type": 18,
+				"type": 2,
 				"field_options": {},
 				"fc_segmentable": false,
 				"save_only": false,
