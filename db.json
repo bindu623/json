@@ -73,19 +73,19 @@
 				"builder": false,
 				"internal": true,
 				"choices": [{
-						"id": 0,
+						"id": "0",
 						"value": "open",
 						"position": 1,
 						"dependent_ids": {}
 					},
 					{
-						"id": 1,
+						"id": "1",
 						"value": "pending",
 						"position": 2,
 						"dependent_ids": {}
 					},
 					{
-						"id": 2,
+						"id": "2",
 						"value": "Resolved",
 						"position": 3,
 						"dependent_ids": {}
